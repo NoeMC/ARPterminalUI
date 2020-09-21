@@ -6,4 +6,4 @@ This is a program writen in python to kill the devices in your **LAN** network. 
 
 When the program is launched, you only need **scan**, select the targets devices with the key **space** and finally kill them.
 
-![Screenshot](https://github.com/NoeMC/ARPterminalUI/screenshots/mainwin.png)
+![Screenshot](https://github.com/NoeMC/ARPterminalUI/tree/master/screenshots/mainwin.png)
